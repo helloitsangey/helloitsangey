@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Kotlin, C#, ada & Typescript
 - 💞️ I’m looking to collaborate on Javascript
 - 📫 How to reach me on any socials @helloitsangey
-- 😄 Pronouns: He/Him/Them
   
 
 <!---
